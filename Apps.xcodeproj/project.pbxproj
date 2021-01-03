@@ -55,6 +55,10 @@
 		6C9560AE25A1B17F00712F97 /* stations.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560A925A1B17F00712F97 /* stations.jpeg */; };
 		6C9560AF25A1B17F00712F97 /* train_down.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560AA25A1B17F00712F97 /* train_down.jpeg */; };
 		6C9560B025A1B17F00712F97 /* train_up.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560AB25A1B17F00712F97 /* train_up.jpeg */; };
+		6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B325A1B1FE00712F97 /* index_ja.html */; };
+		6C9560B625A1B1FE00712F97 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B425A1B1FE00712F97 /* index.html */; };
+		6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B825A1B20600712F97 /* Calculator4.png */; };
+		6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B925A1B20600712F97 /* Calcurator4_splash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -108,6 +112,10 @@
 		6C9560A925A1B17F00712F97 /* stations.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stations.jpeg; sourceTree = "<group>"; };
 		6C9560AA25A1B17F00712F97 /* train_down.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = train_down.jpeg; sourceTree = "<group>"; };
 		6C9560AB25A1B17F00712F97 /* train_up.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = train_up.jpeg; sourceTree = "<group>"; };
+		6C9560B325A1B1FE00712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
+		6C9560B425A1B1FE00712F97 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		6C9560B825A1B20600712F97 /* Calculator4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator4.png; sourceTree = "<group>"; };
+		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +184,9 @@
 		6C95604925A1B0C100712F97 /* App_Calculator4 */ = {
 			isa = PBXGroup;
 			children = (
+				6C9560B325A1B1FE00712F97 /* index_ja.html */,
+				6C9560B425A1B1FE00712F97 /* index.html */,
+				6C9560B225A1B1F400712F97 /* img */,
 			);
 			path = App_Calculator4;
 			sourceTree = "<group>";
@@ -273,6 +284,15 @@
 			path = img;
 			sourceTree = "<group>";
 		};
+		6C9560B225A1B1F400712F97 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				6C9560B825A1B20600712F97 /* Calculator4.png */,
+				6C9560B925A1B20600712F97 /* Calcurator4_splash.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -341,16 +361,19 @@
 				6C95606D25A1B13C00712F97 /* SocTest.png in Resources */,
 				6C95605325A1B0F800712F97 /* apps.css in Resources */,
 				6C95607825A1B15800712F97 /* SocPing.png in Resources */,
+				6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */,
 				6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */,
 				6C95609825A1B16400712F97 /* ScreenShot4.jpeg in Resources */,
 				6C9560AF25A1B17F00712F97 /* train_down.jpeg in Resources */,
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
 				6C9560AE25A1B17F00712F97 /* stations.jpeg in Resources */,
 				6C95606125A1B11C00712F97 /* AppStore_JP.svg in Resources */,
+				6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */,
 				6C95606925A1B11C00712F97 /* home.svg in Resources */,
 				6C95607725A1B15800712F97 /* SocPing_splash.png in Resources */,
 				6C95605625A1B11500712F97 /* twitter.png in Resources */,
 				6C95609B25A1B16400712F97 /* ScreenShot6.jpeg in Resources */,
+				6C9560B625A1B1FE00712F97 /* index.html in Resources */,
 				6C95609525A1B16400712F97 /* ScreenShot7.jpeg in Resources */,
 				6C95609F25A1B16400712F97 /* ScreenShot5_ja.jpeg in Resources */,
 				6C9560A125A1B16400712F97 /* ScreenShot1.jpeg in Resources */,
@@ -369,6 +392,7 @@
 				6C95609725A1B16400712F97 /* ScreenShot6_ja.jpeg in Resources */,
 				6C95604025A1B09900712F97 /* Preview Assets.xcassets in Resources */,
 				6C95609425A1B16400712F97 /* ScreenShot9.jpeg in Resources */,
+				6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */,
 				6C95608E25A1B16400712F97 /* ScreenShot5.jpeg in Resources */,
 				6C95608F25A1B16400712F97 /* ScreenShot9_ja.jpeg in Resources */,
 				6C95609325A1B16400712F97 /* ScreenShot3_ja.jpeg in Resources */,
