@@ -52,13 +52,13 @@
 		6C9560A525A1B17600712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560A425A1B17600712F97 /* index_ja.html */; };
 		6C9560AC25A1B17F00712F97 /* shinkansen_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560A725A1B17F00712F97 /* shinkansen_splash.png */; };
 		6C9560AD25A1B17F00712F97 /* Shinkansen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560A825A1B17F00712F97 /* Shinkansen.jpeg */; };
-		6C9560AE25A1B17F00712F97 /* stations.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560A925A1B17F00712F97 /* stations.jpeg */; };
-		6C9560AF25A1B17F00712F97 /* train_down.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560AA25A1B17F00712F97 /* train_down.jpeg */; };
 		6C9560B025A1B17F00712F97 /* train_up.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560AB25A1B17F00712F97 /* train_up.jpeg */; };
 		6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B325A1B1FE00712F97 /* index_ja.html */; };
 		6C9560B625A1B1FE00712F97 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B425A1B1FE00712F97 /* index.html */; };
 		6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B825A1B20600712F97 /* Calculator4.png */; };
 		6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B925A1B20600712F97 /* Calcurator4_splash.png */; };
+		6C9560C325A1B25900712F97 /* train_down.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560C225A1B25900712F97 /* train_down.jpeg */; };
+		6C9560C725A1B27800712F97 /* stations.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560C625A1B27800712F97 /* stations.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -109,13 +109,13 @@
 		6C9560A425A1B17600712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
 		6C9560A725A1B17F00712F97 /* shinkansen_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shinkansen_splash.png; sourceTree = "<group>"; };
 		6C9560A825A1B17F00712F97 /* Shinkansen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shinkansen.jpeg; sourceTree = "<group>"; };
-		6C9560A925A1B17F00712F97 /* stations.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stations.jpeg; sourceTree = "<group>"; };
-		6C9560AA25A1B17F00712F97 /* train_down.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = train_down.jpeg; sourceTree = "<group>"; };
 		6C9560AB25A1B17F00712F97 /* train_up.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = train_up.jpeg; sourceTree = "<group>"; };
 		6C9560B325A1B1FE00712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
 		6C9560B425A1B1FE00712F97 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		6C9560B825A1B20600712F97 /* Calculator4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator4.png; sourceTree = "<group>"; };
 		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
+		6C9560C225A1B25900712F97 /* train_down.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = train_down.jpeg; path = ../../../../../manabapp/Apps_backup/App_Shinkansen/img/train_down.jpeg; sourceTree = "<group>"; };
+		6C9560C625A1B27800712F97 /* stations.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stations.jpeg; path = ../../../../../manabapp/Apps_backup/App_Shinkansen/img/stations.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -275,10 +275,10 @@
 		6C9560A325A1B16C00712F97 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				6C9560C625A1B27800712F97 /* stations.jpeg */,
+				6C9560C225A1B25900712F97 /* train_down.jpeg */,
 				6C9560A725A1B17F00712F97 /* shinkansen_splash.png */,
 				6C9560A825A1B17F00712F97 /* Shinkansen.jpeg */,
-				6C9560A925A1B17F00712F97 /* stations.jpeg */,
-				6C9560AA25A1B17F00712F97 /* train_down.jpeg */,
 				6C9560AB25A1B17F00712F97 /* train_up.jpeg */,
 			);
 			path = img;
@@ -357,16 +357,16 @@
 				6C95609625A1B16400712F97 /* ScreenShot3.jpeg in Resources */,
 				6C95609125A1B16400712F97 /* ScreenShot8.jpeg in Resources */,
 				6C95605125A1B0F800712F97 /* index_ja.html in Resources */,
+				6C9560C325A1B25900712F97 /* train_down.jpeg in Resources */,
 				6C9560A525A1B17600712F97 /* index_ja.html in Resources */,
 				6C95606D25A1B13C00712F97 /* SocTest.png in Resources */,
 				6C95605325A1B0F800712F97 /* apps.css in Resources */,
 				6C95607825A1B15800712F97 /* SocPing.png in Resources */,
+				6C9560C725A1B27800712F97 /* stations.jpeg in Resources */,
 				6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */,
 				6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */,
 				6C95609825A1B16400712F97 /* ScreenShot4.jpeg in Resources */,
-				6C9560AF25A1B17F00712F97 /* train_down.jpeg in Resources */,
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
-				6C9560AE25A1B17F00712F97 /* stations.jpeg in Resources */,
 				6C95606125A1B11C00712F97 /* AppStore_JP.svg in Resources */,
 				6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */,
 				6C95606925A1B11C00712F97 /* home.svg in Resources */,
