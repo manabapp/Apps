@@ -59,6 +59,8 @@
 		6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B925A1B20600712F97 /* Calcurator4_splash.png */; };
 		6C9560C325A1B25900712F97 /* train_down.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560C225A1B25900712F97 /* train_down.jpeg */; };
 		6C9560C725A1B27800712F97 /* stations.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560C625A1B27800712F97 /* stations.jpeg */; };
+		6C9560CB25A1DC4300712F97 /* train_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560C925A1DC4300712F97 /* train_down.png */; };
+		6C9560CC25A1DC4300712F97 /* train_up.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560CA25A1DC4300712F97 /* train_up.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -116,6 +118,8 @@
 		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
 		6C9560C225A1B25900712F97 /* train_down.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = train_down.jpeg; path = ../../../../../manabapp/Apps_backup/App_Shinkansen/img/train_down.jpeg; sourceTree = "<group>"; };
 		6C9560C625A1B27800712F97 /* stations.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stations.jpeg; path = ../../../../../manabapp/Apps_backup/App_Shinkansen/img/stations.jpeg; sourceTree = "<group>"; };
+		6C9560C925A1DC4300712F97 /* train_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = train_down.png; sourceTree = "<group>"; };
+		6C9560CA25A1DC4300712F97 /* train_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = train_up.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -275,6 +279,8 @@
 		6C9560A325A1B16C00712F97 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				6C9560C925A1DC4300712F97 /* train_down.png */,
+				6C9560CA25A1DC4300712F97 /* train_up.png */,
 				6C9560C625A1B27800712F97 /* stations.jpeg */,
 				6C9560C225A1B25900712F97 /* train_down.jpeg */,
 				6C9560A725A1B17F00712F97 /* shinkansen_splash.png */,
@@ -369,6 +375,7 @@
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
 				6C95606125A1B11C00712F97 /* AppStore_JP.svg in Resources */,
 				6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */,
+				6C9560CB25A1DC4300712F97 /* train_down.png in Resources */,
 				6C95606925A1B11C00712F97 /* home.svg in Resources */,
 				6C95607725A1B15800712F97 /* SocPing_splash.png in Resources */,
 				6C95605625A1B11500712F97 /* twitter.png in Resources */,
@@ -394,6 +401,7 @@
 				6C95609425A1B16400712F97 /* ScreenShot9.jpeg in Resources */,
 				6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */,
 				6C95608E25A1B16400712F97 /* ScreenShot5.jpeg in Resources */,
+				6C9560CC25A1DC4300712F97 /* train_up.png in Resources */,
 				6C95608F25A1B16400712F97 /* ScreenShot9_ja.jpeg in Resources */,
 				6C95609325A1B16400712F97 /* ScreenShot3_ja.jpeg in Resources */,
 				6C95609C25A1B16400712F97 /* ScreenShot7_ja.jpeg in Resources */,
