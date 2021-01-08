@@ -26,7 +26,6 @@
 		6C95606925A1B11C00712F97 /* home.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95606025A1B11C00712F97 /* home.svg */; };
 		6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B325A1B1FE00712F97 /* index_ja.html */; };
 		6C9560B625A1B1FE00712F97 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B425A1B1FE00712F97 /* index.html */; };
-		6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B825A1B20600712F97 /* Calculator4.png */; };
 		6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B925A1B20600712F97 /* Calcurator4_splash.png */; };
 		6C9560DA25A84A0000712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560D925A84A0000712F97 /* index_ja.html */; };
 		6C9560DD25A84A0A00712F97 /* shinkansen_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */; };
@@ -58,7 +57,6 @@
 		6C95606025A1B11C00712F97 /* home.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = home.svg; sourceTree = "<group>"; };
 		6C9560B325A1B1FE00712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
 		6C9560B425A1B1FE00712F97 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		6C9560B825A1B20600712F97 /* Calculator4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator4.png; sourceTree = "<group>"; };
 		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
 		6C9560D925A84A0000712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
 		6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shinkansen_splash.png; path = img/shinkansen_splash.png; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 		6C9560B225A1B1F400712F97 /* img */ = {
 			isa = PBXGroup;
 			children = (
-				6C9560B825A1B20600712F97 /* Calculator4.png */,
 				6C9560B925A1B20600712F97 /* Calcurator4_splash.png */,
 			);
 			path = img;
@@ -253,7 +250,6 @@
 				6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */,
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
 				6C95606125A1B11C00712F97 /* AppStore_JP.svg in Resources */,
-				6C9560BA25A1B20600712F97 /* Calculator4.png in Resources */,
 				6C95606925A1B11C00712F97 /* home.svg in Resources */,
 				6C9560E325A84A4400712F97 /* SocTest.png in Resources */,
 				6C9560DA25A84A0000712F97 /* index_ja.html in Resources */,
