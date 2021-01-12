@@ -33,6 +33,11 @@
 		6C9560E425A84A4400712F97 /* SocPing.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E025A84A4400712F97 /* SocPing.png */; };
 		6C9560E525A84A4400712F97 /* Shinkansen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E125A84A4400712F97 /* Shinkansen.jpeg */; };
 		6C9560E625A84A4400712F97 /* Calculator4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E225A84A4400712F97 /* Calculator4.png */; };
+		6C95613225AD8BC800712F97 /* gray-github.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612D25AD8BC800712F97 /* gray-github.svg */; };
+		6C95613325AD8BC800712F97 /* ScreenShot1_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612E25AD8BC800712F97 /* ScreenShot1_ja.jpeg */; };
+		6C95613425AD8BC800712F97 /* ScreenShot2_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612F25AD8BC800712F97 /* ScreenShot2_ja.jpeg */; };
+		6C95613525AD8BC800712F97 /* ScreenShot3_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95613025AD8BC800712F97 /* ScreenShot3_ja.jpeg */; };
+		6C95613625AD8BC800712F97 /* ScreenShot4_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95613125AD8BC800712F97 /* ScreenShot4_ja.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,11 +64,16 @@
 		6C9560B425A1B1FE00712F97 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
 		6C9560D925A84A0000712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
-		6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shinkansen_splash.png; path = img/shinkansen_splash.png; sourceTree = "<group>"; };
+		6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shinkansen_splash.png; sourceTree = "<group>"; };
 		6C9560DF25A84A4400712F97 /* SocTest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SocTest.png; sourceTree = "<group>"; };
 		6C9560E025A84A4400712F97 /* SocPing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SocPing.png; sourceTree = "<group>"; };
 		6C9560E125A84A4400712F97 /* Shinkansen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shinkansen.jpeg; sourceTree = "<group>"; };
 		6C9560E225A84A4400712F97 /* Calculator4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator4.png; sourceTree = "<group>"; };
+		6C95612D25AD8BC800712F97 /* gray-github.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "gray-github.svg"; sourceTree = "<group>"; };
+		6C95612E25AD8BC800712F97 /* ScreenShot1_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot1_ja.jpeg; sourceTree = "<group>"; };
+		6C95612F25AD8BC800712F97 /* ScreenShot2_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot2_ja.jpeg; sourceTree = "<group>"; };
+		6C95613025AD8BC800712F97 /* ScreenShot3_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot3_ja.jpeg; sourceTree = "<group>"; };
+		6C95613125AD8BC800712F97 /* ScreenShot4_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot4_ja.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,7 +180,6 @@
 			isa = PBXGroup;
 			children = (
 				6C9560D925A84A0000712F97 /* index_ja.html */,
-				6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */,
 				6C9560D825A849AF00712F97 /* img */,
 			);
 			path = Shinkansen;
@@ -179,6 +188,12 @@
 		6C9560D825A849AF00712F97 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */,
+				6C95612D25AD8BC800712F97 /* gray-github.svg */,
+				6C95612E25AD8BC800712F97 /* ScreenShot1_ja.jpeg */,
+				6C95612F25AD8BC800712F97 /* ScreenShot2_ja.jpeg */,
+				6C95613025AD8BC800712F97 /* ScreenShot3_ja.jpeg */,
+				6C95613125AD8BC800712F97 /* ScreenShot4_ja.jpeg */,
 			);
 			path = img;
 			sourceTree = "<group>";
@@ -242,6 +257,7 @@
 			files = (
 				6C95606325A1B11C00712F97 /* AppStore_US.svg in Resources */,
 				6C95606525A1B11C00712F97 /* Pythonista3.jpeg in Resources */,
+				6C95613225AD8BC800712F97 /* gray-github.svg in Resources */,
 				6C9560DD25A84A0A00712F97 /* shinkansen_splash.png in Resources */,
 				6C95605125A1B0F800712F97 /* index_ja.html in Resources */,
 				6C95605325A1B0F800712F97 /* apps.css in Resources */,
@@ -249,20 +265,24 @@
 				6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */,
 				6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */,
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
+				6C95613325AD8BC800712F97 /* ScreenShot1_ja.jpeg in Resources */,
 				6C95606125A1B11C00712F97 /* AppStore_JP.svg in Resources */,
 				6C95606925A1B11C00712F97 /* home.svg in Resources */,
 				6C9560E325A84A4400712F97 /* SocTest.png in Resources */,
 				6C9560DA25A84A0000712F97 /* index_ja.html in Resources */,
 				6C95605625A1B11500712F97 /* twitter.png in Resources */,
 				6C9560B625A1B1FE00712F97 /* index.html in Resources */,
+				6C95613625AD8BC800712F97 /* ScreenShot4_ja.jpeg in Resources */,
 				6C95606725A1B11C00712F97 /* manabapp.png in Resources */,
 				6C95606425A1B11C00712F97 /* mark-github.svg in Resources */,
+				6C95613425AD8BC800712F97 /* ScreenShot2_ja.jpeg in Resources */,
 				6C95606625A1B11C00712F97 /* favicon.png in Resources */,
 				6C95604025A1B09900712F97 /* Preview Assets.xcassets in Resources */,
 				6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */,
 				6C9560E525A84A4400712F97 /* Shinkansen.jpeg in Resources */,
 				6C95606225A1B11C00712F97 /* Gmail.png in Resources */,
 				6C9560E625A84A4400712F97 /* Calculator4.png in Resources */,
+				6C95613525AD8BC800712F97 /* ScreenShot3_ja.jpeg in Resources */,
 				6C95603D25A1B09900712F97 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
