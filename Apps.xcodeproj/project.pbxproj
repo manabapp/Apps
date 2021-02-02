@@ -25,9 +25,6 @@
 		6C95606725A1B11C00712F97 /* manabapp.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C95605E25A1B11C00712F97 /* manabapp.png */; };
 		6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */ = {isa = PBXBuildFile; fileRef = 6C95605F25A1B11C00712F97 /* Pythonista3.key */; };
 		6C95606925A1B11C00712F97 /* home.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95606025A1B11C00712F97 /* home.svg */; };
-		6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B325A1B1FE00712F97 /* index_ja.html */; };
-		6C9560B625A1B1FE00712F97 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B425A1B1FE00712F97 /* index.html */; };
-		6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560B925A1B20600712F97 /* Calcurator4_splash.png */; };
 		6C9560DA25A84A0000712F97 /* index_ja.html in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560D925A84A0000712F97 /* index_ja.html */; };
 		6C9560DD25A84A0A00712F97 /* shinkansen_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */; };
 		6C9560E325A84A4400712F97 /* SocTest.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560DF25A84A4400712F97 /* SocTest.png */; };
@@ -62,9 +59,6 @@
 		6C95605E25A1B11C00712F97 /* manabapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = manabapp.png; sourceTree = "<group>"; };
 		6C95605F25A1B11C00712F97 /* Pythonista3.key */ = {isa = PBXFileReference; lastKnownFileType = file; path = Pythonista3.key; sourceTree = "<group>"; };
 		6C95606025A1B11C00712F97 /* home.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = home.svg; sourceTree = "<group>"; };
-		6C9560B325A1B1FE00712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
-		6C9560B425A1B1FE00712F97 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		6C9560B925A1B20600712F97 /* Calcurator4_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calcurator4_splash.png; sourceTree = "<group>"; };
 		6C9560D925A84A0000712F97 /* index_ja.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index_ja.html; sourceTree = "<group>"; };
 		6C9560DC25A84A0A00712F97 /* shinkansen_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shinkansen_splash.png; sourceTree = "<group>"; };
 		6C9560DF25A84A4400712F97 /* SocTest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SocTest.png; sourceTree = "<group>"; };
@@ -134,19 +128,8 @@
 				6C95605025A1B0F800712F97 /* apps.css */,
 				6C95604D25A1B0EE00712F97 /* img */,
 				6C9560D725A849A500712F97 /* Shinkansen */,
-				6C95604925A1B0C100712F97 /* App_Calculator4 */,
 			);
 			path = docs;
-			sourceTree = "<group>";
-		};
-		6C95604925A1B0C100712F97 /* App_Calculator4 */ = {
-			isa = PBXGroup;
-			children = (
-				6C9560B325A1B1FE00712F97 /* index_ja.html */,
-				6C9560B425A1B1FE00712F97 /* index.html */,
-				6C9560B225A1B1F400712F97 /* img */,
-			);
-			path = App_Calculator4;
 			sourceTree = "<group>";
 		};
 		6C95604D25A1B0EE00712F97 /* img */ = {
@@ -167,14 +150,6 @@
 				6C5A4E2E25C7E979003F2D6A /* SocDoor.png */,
 				6C9560E125A84A4400712F97 /* Shinkansen.jpeg */,
 				6C9560E225A84A4400712F97 /* Calculator4.png */,
-			);
-			path = img;
-			sourceTree = "<group>";
-		};
-		6C9560B225A1B1F400712F97 /* img */ = {
-			isa = PBXGroup;
-			children = (
-				6C9560B925A1B20600712F97 /* Calcurator4_splash.png */,
 			);
 			path = img;
 			sourceTree = "<group>";
@@ -265,7 +240,6 @@
 				6C95605125A1B0F800712F97 /* index_ja.html in Resources */,
 				6C95605325A1B0F800712F97 /* apps.css in Resources */,
 				6C9560E425A84A4400712F97 /* SocPing.png in Resources */,
-				6C9560BB25A1B20600712F97 /* Calcurator4_splash.png in Resources */,
 				6C95606825A1B11C00712F97 /* Pythonista3.key in Resources */,
 				6C95605225A1B0F800712F97 /* index.html in Resources */,
 				6C95613325AD8BC800712F97 /* ScreenShot1_ja.jpeg in Resources */,
@@ -274,7 +248,6 @@
 				6C9560E325A84A4400712F97 /* SocTest.png in Resources */,
 				6C9560DA25A84A0000712F97 /* index_ja.html in Resources */,
 				6C95605625A1B11500712F97 /* twitter.png in Resources */,
-				6C9560B625A1B1FE00712F97 /* index.html in Resources */,
 				6C95613625AD8BC800712F97 /* ScreenShot4_ja.jpeg in Resources */,
 				6C95606725A1B11C00712F97 /* manabapp.png in Resources */,
 				6C5A4E2F25C7E979003F2D6A /* SocDoor.png in Resources */,
@@ -282,7 +255,6 @@
 				6C95613425AD8BC800712F97 /* ScreenShot2_ja.jpeg in Resources */,
 				6C95606625A1B11C00712F97 /* favicon.png in Resources */,
 				6C95604025A1B09900712F97 /* Preview Assets.xcassets in Resources */,
-				6C9560B525A1B1FE00712F97 /* index_ja.html in Resources */,
 				6C9560E525A84A4400712F97 /* Shinkansen.jpeg in Resources */,
 				6C95606225A1B11C00712F97 /* Gmail.png in Resources */,
 				6C9560E625A84A4400712F97 /* Calculator4.png in Resources */,
