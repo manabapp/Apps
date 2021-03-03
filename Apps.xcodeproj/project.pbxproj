@@ -30,12 +30,12 @@
 		6C9560E325A84A4400712F97 /* SocTest.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560DF25A84A4400712F97 /* SocTest.png */; };
 		6C9560E425A84A4400712F97 /* SocPing.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E025A84A4400712F97 /* SocPing.png */; };
 		6C9560E525A84A4400712F97 /* Shinkansen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E125A84A4400712F97 /* Shinkansen.jpeg */; };
-		6C9560E625A84A4400712F97 /* Calculator4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C9560E225A84A4400712F97 /* Calculator4.png */; };
 		6C95613225AD8BC800712F97 /* gray-github.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612D25AD8BC800712F97 /* gray-github.svg */; };
 		6C95613325AD8BC800712F97 /* ScreenShot1_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612E25AD8BC800712F97 /* ScreenShot1_ja.jpeg */; };
 		6C95613425AD8BC800712F97 /* ScreenShot2_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95612F25AD8BC800712F97 /* ScreenShot2_ja.jpeg */; };
 		6C95613525AD8BC800712F97 /* ScreenShot3_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95613025AD8BC800712F97 /* ScreenShot3_ja.jpeg */; };
 		6C95613625AD8BC800712F97 /* ScreenShot4_ja.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6C95613125AD8BC800712F97 /* ScreenShot4_ja.jpeg */; };
+		6CB0F6C425EF4E6F002C552E /* Calculator.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6CB0F6C325EF4E6F002C552E /* Calculator.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,12 +64,12 @@
 		6C9560DF25A84A4400712F97 /* SocTest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SocTest.png; sourceTree = "<group>"; };
 		6C9560E025A84A4400712F97 /* SocPing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SocPing.png; sourceTree = "<group>"; };
 		6C9560E125A84A4400712F97 /* Shinkansen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Shinkansen.jpeg; sourceTree = "<group>"; };
-		6C9560E225A84A4400712F97 /* Calculator4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator4.png; sourceTree = "<group>"; };
 		6C95612D25AD8BC800712F97 /* gray-github.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "gray-github.svg"; sourceTree = "<group>"; };
 		6C95612E25AD8BC800712F97 /* ScreenShot1_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot1_ja.jpeg; sourceTree = "<group>"; };
 		6C95612F25AD8BC800712F97 /* ScreenShot2_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot2_ja.jpeg; sourceTree = "<group>"; };
 		6C95613025AD8BC800712F97 /* ScreenShot3_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot3_ja.jpeg; sourceTree = "<group>"; };
 		6C95613125AD8BC800712F97 /* ScreenShot4_ja.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ScreenShot4_ja.jpeg; sourceTree = "<group>"; };
+		6CB0F6C325EF4E6F002C552E /* Calculator.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Calculator.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,7 +149,7 @@
 				6C9560DF25A84A4400712F97 /* SocTest.png */,
 				6C5A4E2E25C7E979003F2D6A /* SocDoor.png */,
 				6C9560E125A84A4400712F97 /* Shinkansen.jpeg */,
-				6C9560E225A84A4400712F97 /* Calculator4.png */,
+				6CB0F6C325EF4E6F002C552E /* Calculator.jpeg */,
 			);
 			path = img;
 			sourceTree = "<group>";
@@ -249,6 +249,7 @@
 				6C9560DA25A84A0000712F97 /* index_ja.html in Resources */,
 				6C95605625A1B11500712F97 /* twitter.png in Resources */,
 				6C95613625AD8BC800712F97 /* ScreenShot4_ja.jpeg in Resources */,
+				6CB0F6C425EF4E6F002C552E /* Calculator.jpeg in Resources */,
 				6C95606725A1B11C00712F97 /* manabapp.png in Resources */,
 				6C5A4E2F25C7E979003F2D6A /* SocDoor.png in Resources */,
 				6C95606425A1B11C00712F97 /* mark-github.svg in Resources */,
@@ -257,7 +258,6 @@
 				6C95604025A1B09900712F97 /* Preview Assets.xcassets in Resources */,
 				6C9560E525A84A4400712F97 /* Shinkansen.jpeg in Resources */,
 				6C95606225A1B11C00712F97 /* Gmail.png in Resources */,
-				6C9560E625A84A4400712F97 /* Calculator4.png in Resources */,
 				6C95613525AD8BC800712F97 /* ScreenShot3_ja.jpeg in Resources */,
 				6C95603D25A1B09900712F97 /* Assets.xcassets in Resources */,
 			);
